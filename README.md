@@ -1,2 +1,2 @@
 # docker-dockerfile
-This repository contains some dockerfile projects usising different commads
+This repository contains some dockerfile projects using different commads
